@@ -1,0 +1,28 @@
+_repo: Capt.-W.-F.-Drannan-Chief-of-Scouts-As-Pilot-to-Emigrant-and-Government-Trains-Across-the-Pla__12895
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drannan, William F.
+    alias: Drannan, W. F. (William F.)
+    birthdate: 1832
+    deathdate: 1913
+    gutenberg_agent_id: '1777'
+    url: http://www.gutenberg.org/2009/agents/1777
+description: Tales of true occurrences from the author's earlier life spent piloting
+  emigrant and government trains across the Western Plains, transporting men and women
+  determined to reach the "land of gold"--Preface.
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcc 'F590.3'
+- GITenberg
+title: Capt. W. F. Drannan, Chief of Scouts, As Pilot to Emigrant and Government Trains,
+  Across the Plains of the Wild West of Fifty Years Ago
+url: http://www.gutenberg.org/ebooks/12895
