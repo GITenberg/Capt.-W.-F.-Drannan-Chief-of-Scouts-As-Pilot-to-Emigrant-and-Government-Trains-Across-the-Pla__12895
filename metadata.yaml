@@ -1,5 +1,8 @@
 _repo: Capt.-W.-F.-Drannan-Chief-of-Scouts-As-Pilot-to-Emigrant-and-Government-Trains-Across-the-Pla__12895
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Drannan, William F.
@@ -11,6 +14,8 @@ creator:
 description: Tales of true occurrences from the author's earlier life spent piloting
   emigrant and government trains across the Western Plains, transporting men and women
   determined to reach the "land of gold"--Preface.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12895#Capt.-W.-F.-Drannan-Chief-of-Scouts-As-Pilot-to-Emigrant-and-Government-Trains-Across-the-Pla_
 gutenberg_issued: '2004-07-12'
 gutenberg_type: Text
 identifiers:
